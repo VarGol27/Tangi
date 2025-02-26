@@ -1,0 +1,1 @@
+C:\Users\varya\source\repos\TangibleReminder\TangibleReminder\bin\Debug\net8.0-windows10.0.19041.0\AppPackages\TangibleReminder_2.0.0.0_Test\TangibleReminder_2.0.0.0_x86.msix

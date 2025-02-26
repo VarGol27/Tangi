@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\varya\\source\\repos\\TangibleReminder\\TangibleReminder\\obj\\Release\\net8.0-maccatalyst\\maccatalyst-arm64\\scopedcss\\bundle\\TangibleReminder.styles.css",
+      "PackagePath": "staticwebassets\\TangibleReminder.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\varya\\source\\repos\\TangibleReminder\\TangibleReminder\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\varya\\source\\repos\\TangibleReminder\\TangibleReminder\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\varya\\source\\repos\\TangibleReminder\\TangibleReminder\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\varya\\source\\repos\\TangibleReminder\\TangibleReminder\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\varya\\source\\repos\\TangibleReminder\\TangibleReminder\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Release\\net8.0-maccatalyst\\maccatalyst-arm64\\staticwebassets\\msbuild.TangibleReminder.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0-maccatalyst\\maccatalyst-arm64\\staticwebassets\\msbuild.build.TangibleReminder.props",
+      "PackagePath": "build\\TangibleReminder.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0-maccatalyst\\maccatalyst-arm64\\staticwebassets\\msbuild.buildMultiTargeting.TangibleReminder.props",
+      "PackagePath": "buildMultiTargeting\\TangibleReminder.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0-maccatalyst\\maccatalyst-arm64\\staticwebassets\\msbuild.buildTransitive.TangibleReminder.props",
+      "PackagePath": "buildTransitive\\TangibleReminder.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

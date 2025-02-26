@@ -1,0 +1,25 @@
+﻿@page "/"
+
+<h3>Set Timer</h3>
+<div>
+    <input @bind="timerDuration" type="number" placeholder="Enter seconds" />
+</div>
+<button @onclick="SendReminder">Set Timer</button>
+<p>@message</p>
+
+@code {
+    private int timerDuration;
+    private string message = "";
+
+    private async Task SendReminder()
+    {
+        if (timerDuration > 0)
+        {
+            message = $"Timer set for {timerDuration} seconds.";
+        }
+        else
+        {
+            message = "Invalid input.";
+        }
+    }
+}
